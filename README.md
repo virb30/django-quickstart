@@ -1,13 +1,13 @@
 # Django Quickstart
 
-Simple Django template for Heroku
+Simple Django template for Heroku forked from heriquebastos/django-quickstart
 
 ## Usage
 
 Create project:
 
 ```
-django-admin startproject --template https://github.com/henriquebastos/django-quickstart/archive/master.zip --name=Procfile,.env myproject
+django-admin startproject --template https://github.com/virb30/django-quickstart/archive/master.zip --name=Procfile,.env myproject
 ```
 
 Setup:
